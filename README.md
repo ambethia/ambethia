@@ -17,7 +17,7 @@
 
 
 <p align="center">
-<a href="https://codepen.io/ambethis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ambethis" height="30" width="40" /></a>
+<a href="https://codepen.io/ambethia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="ambethis" height="30" width="40" /></a>
 <a href="https://twitter.com/ambethia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ambethia" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/ambethia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ambethia" height="30" width="40" /></a>
 <a href="https://instagram.com/ambethia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ambethia" height="30" width="40" /></a>
